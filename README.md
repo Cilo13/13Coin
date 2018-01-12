@@ -9,7 +9,7 @@ Copyright (c) 2014-2017 The 13 Core developers
 
 Copyright (c) 2017-2018 The 13X Core developers
 
-13 Coin, derived from Bitcoin,PPCoin,13X is released under the terms of 
+13 Coin, derived from Bitcoin,PPCoin then MAGI, 13X is released under the terms of 
 the MIT license. See COPYING for more information or see 
 http://opensource.org/licenses/MIT.
 
