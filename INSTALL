@@ -1,9 +1,9 @@
-Building Magi
+Building 13 Coin
 
-See doc/readme-qt.rst for instructions on building Magi QT,
+See doc/readme-qt.rst for instructions on building 13X QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Magi.
+implementation of 13X.
 
 See doc/build-*.txt for instructions on building magid,
 the intended-for-services, no-graphical-interface, reference
-implementation of Magi.
+implementation of 13X.
