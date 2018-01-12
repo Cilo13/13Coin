@@ -1,30 +1,32 @@
-Coin Magi
+13 COIN
 ====================
 
 Copyright (c) 2009-2012 The Bitcoin Core developers
 
 Copyright (c) 2012-2014 The PPCoin developers
 
-Copyright (c) 2014-2017 The Magi Core developers
+Copyright (c) 2014-2017 The 13 Core developers
 
-Coin Magi, derived from Bitcoin and PPCoin, is released under the terms of 
+Copyright (c) 2017-2018 The 13X Core developers
+
+13 Coin, derived from Bitcoin,PPCoin,13X is released under the terms of 
 the MIT license. See COPYING for more information or see 
 http://opensource.org/licenses/MIT.
 
 Intro
 ---------------------
-Coin Magi (XMG) is an online payment system, enabling instant payments to anyone in the world without using an intermediary. Magi coins can be minted by computational devices including personal computers and portable devices through mPoW and mPoS. Magi aims at fairness, cost effective and energy efficiency during coin minting. Magi is a hybrid PoW/PoS-based cryptocurrency that integrates two mechanisms: proof-of-work (PoW) and proof-of-stake (PoS) protocols. Magi is a CPU coin. 
+13 Coin (13X) is an online payment system, enabling instant payments to anyone in the world without using an intermediary. 13X coins can be minted by computational devices including personal computers and portable devices through mPoW and mPoS. 13 aims at fairness, cost effective and energy efficiency during coin minting. 13X is a hybrid PoW/PoS-based cryptocurrency that integrates two mechanisms: proof-of-work (PoW) and proof-of-stake (PoS) protocols. 13 is a CPU coin. 
 
 Features
 ---------------------
-- mPoW, the magi's proof-of-work (PoW) protocol, in addition to required computational works to be done to deter denial of service attacks, is also a network-dependent rewarding model system. The mPoW rewards participants who solve complicated cryptographical questions not only to validate transactions but also to create new blocks in order to generate coins. The coins mined via mPoW are adjusted and balanced by two primary mechanisms: 1) stimulating network activities by issuing rewards, and 2) mitigating redundant mining sources by reducing rewards.
+- mPoW, the 13X's proof-of-work (PoW) protocol, in addition to required computational works to be done to deter denial of service attacks, is also a network-dependent rewarding model system. The mPoW rewards participants who solve complicated cryptographical questions not only to validate transactions but also to create new blocks in order to generate coins. The coins mined via mPoW are adjusted and balanced by two primary mechanisms: 1) stimulating network activities by issuing rewards, and 2) mitigating redundant mining sources by reducing rewards.
 
 - The particular designed block reward system to remove the competitive nature of 
 mining and offer an even playing field for anyone looking to issue coins 
 without expensive equipment - offering features such as energy saving, proof of 
 mining.
 
-- mPoS, the magi's proof-of-stake (PoS) protocol, aims to achieve distributed consensus through operations in addition to mPoW. mPoS is designed such that it rejects potential attacks, for example, through accumulating a large amount of coins or offline stake time. Magi hybridizes PoW with PoS, and integrate both consensus approaches in order to acquire benefits from the two mechanisms and create a more robust payment system. mPoS particularly enhances the security of XMG's staking system that distinguishes itself from the original concept developed by PPCoin. 
+- mPoS, the 13X's proof-of-stake (PoS) protocol, aims to achieve distributed consensus through operations in addition to mPoW. mPoS is designed such that it rejects potential attacks, for example, through accumulating a large amount of coins or offline stake time. 13 hybridizes PoW with PoS, and integrate both consensus approaches in order to acquire benefits from the two mechanisms and create a more robust payment system. mPoS particularly enhances the security of XMG's staking system that distinguishes itself from the original concept developed by PPCoin. 
 
 Development process
 ---------------------
@@ -39,7 +41,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of Magi.
+stable release versions of 13X.
 
 Feature branches are created when there are major new features being
 worked on by several people.
@@ -56,15 +58,15 @@ labeled 'stale'.
 
 Setup
 ---------------------
-If you are just starting to explore magi, or upgrading wallet from versions prior to v1.3.0, the following procedure is recommended:  
+If you are just starting to explore 13X or upgrading wallet from versions prior to v1.3.0, the following procedure is recommended:  
 
 1) Backup wallet.dat;
 
-2) Remove the block-chain data under the .magi (unix-like system) or Magi (OS X or Windows) folder, except for wallet.dat;
+2) Remove the block-chain data under the .13 (unix-like system) or 13 (OS X or Windows) folder, except for wallet.dat;
 
 3) Download latest block-chain data from here: http://m-core.org/bin/block-chain;
 
-4) Unzip all the contents under "m-blockchain" into the .magi or Magi folder;
+4) Unzip all the contents under "m-blockchain" into the .13 or 13 folder;
 
 5) Launch the new wallet. 
 
@@ -76,7 +78,7 @@ If you are just starting to explore magi, or upgrading wallet from versions prio
 
 Info
 ---------------------
-- Website: http://www.m-core.org
-- Bitcointalk thread: https://bitcointalk.org/index.php?topic=735170.0
-- Forum: http://www.m-talk.org/
-- Freenode IRC: #magi
+- Website: http://www.13coin.co.za
+- Bitcointalk thread: https://bitcointalk.org/ * setup 
+- Forum: http://form.13coin.co.za
+- Freenode IRC: #13X * 
