@@ -5,7 +5,7 @@ Copyright (c) 2009-2012 The Bitcoin Core developers
 
 Copyright (c) 2012-2014 The PPCoin developers
 
-Copyright (c) 2014-2017 The 13 Core developers
+Copyright (c) 2014-2017 The Magi Core developers
 
 Copyright (c) 2017-2018 The 13X Core developers
 
